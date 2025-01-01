@@ -1,1 +1,1 @@
-# Candlestick
+# Single Candlestick
